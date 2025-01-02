@@ -14,7 +14,7 @@
   - Python , Java
 
 - **Frameworks and Libraries:**
-  - Danjo Rest Framework , Springboot
+  - Djanjo Rest Framework , Springboot
 
 - **Tools and Platforms:**
   - postman, postgre SQL, V-center ,GCP
